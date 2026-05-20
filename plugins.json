@@ -1,0 +1,17 @@
+[
+  {
+    "name": "FilmKutusu",
+    "internalName": "FilmKutusu",
+    "url": "https://raw.githubusercontent.com/trclay34/TRclay/builds/FilmKutusu.cs3",
+    "tvTypes": ["Movie"],
+    "lang": "tr",
+    "iconUrl": "https://filmkutusu.com.tr/wp-content/uploads/2026/03/filmkutusu-logo.png",
+    "apiVersion": 2,
+    "repositoryUrl": "https://github.com/trclay34/TRclay",
+    "fileSize": 0,
+    "authors": ["trclay34"],
+    "description": "FilmKutusu.com.tr üzerinden Türkçe film izle",
+    "status": 1,
+    "version": 1
+  }
+]
