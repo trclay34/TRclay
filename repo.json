@@ -1,0 +1,8 @@
+{
+  "name": "TRclay Türk Film Reposu",
+  "description": "FilmKutusu.com.tr için CloudStream eklentisi",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/trclay34/TRclay/builds/plugins.json"
+  ]
+}
